@@ -22,7 +22,7 @@ Convergence: The training process continues for a specified number of iterations
 ## Output
 
 <p align="center">
-  <img src="https://github.com/Neill-Erasmus/credit-card-fraud/raw/main/assets/141222943/f6c16d87-a012-49ff-be7a-87b76b7d75e9" alt="output">
+  <img src="https://github.com/Neill-Erasmus/credit-card-fraud/raw/main/assets/141222943/2c613e06-a527-4051-9ebc-b79cb504315f" alt="output">
 </p>
 
 ## License
